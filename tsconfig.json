@@ -1,0 +1,5 @@
+{
+    // https://nuxt.com/docs/guide/concepts/typescript
+    "compilerOptions": { "types": ["node", "webpack-env"] },
+    "extends": "./.nuxt/tsconfig.json"
+}
